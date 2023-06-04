@@ -1,0 +1,67 @@
+// Colors 
+$pinkClr : #e75e8d;
+$yellowClr : #ffff00;
+$grayClr : #27292a;
+$darkClr : #1e1e1e;
+$altGrayClr: #cccccc;
+$altDarkClr: #1f2122;
+$secondryClr: #666666;
+
+// Classes As Framework
+.bg-pink {
+    background-color: $pinkClr;
+}
+.text-pink {
+    color: $pinkClr;
+}
+.bg-secondryy {
+    background-color: $secondryClr;
+}
+.text-secondryy {
+    color: $secondryClr;
+}
+.bg-grey {
+    background-color: $altGrayClr;
+}
+.text-grey {
+    color: $altGrayClr;
+}
+.bg-greyAlt {
+    background-color: $grayClr;
+}
+.text-greyAlt {
+    color: $grayClr;
+}
+.fs-sm1 {
+    font-size: 11px;
+}
+.fs-sm2 {
+    font-size: 12px;
+}
+.fs-md1 {
+    font-size: 13px;
+}
+.fs-md2 {
+    font-size: 14px;
+}
+.fs-rg1 {
+    font-size: 15px;
+}
+.fs-rg2 {
+    font-size: 16px;
+}
+.pointer {
+    cursor: pointer;
+}
+.tr-1 {
+    transition: .25s ease;
+}
+.tr-2 {
+    transition: .5s ease;
+}
+.tr-3 {
+    transition: .75s ease;
+}
+.tr-4 {
+    transition: 1s ease;
+}
