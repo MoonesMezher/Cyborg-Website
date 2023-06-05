@@ -64,7 +64,7 @@ class Header extends Component {
                                 <input type='text' className='py-2 ps-5 bg-greyAlt text-secondryy' placeholder='type something' onChange={this.handleChange}/>
                             </div>
                         </form>
-                        <div className='nav'>
+                        <div className='nav z-3'>
                             <div className={`menu position-relative pointer d-lg-none ${this.state.menu.clicked?"close":""}`} 
                             onClick={this.handleClickMenu}>
                                 <span className='position-absolute bg-pink tr-1 top-0'></span>
