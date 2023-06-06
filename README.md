@@ -1,3 +1,0 @@
-# Cyborg
-## Gaming Website
-
